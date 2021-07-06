@@ -132,3 +132,68 @@ body{
 	text-decoration: none;
 	padding: 21px 35px;
 }
+.my-recepies-area {
+	padding: 70px 0;
+    background: #FFF;
+}
+.section-title {
+	text-align: center;
+	padding-bottom: 56px;
+}
+.section-title h2 {
+	color: #676767;
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 44px;
+	text-transform: capitalize;
+	margin-bottom: 30px;
+}
+.section-title p {
+	font-size: 17px;
+	max-width: 520px;
+	width: 100%;
+	margin: 0 auto;
+	color: #828282;
+	line-height: 26px;
+}
+img{
+    max-width: 100%;
+}
+.all-recipies-item {
+	display: flex;
+	justify-content: space-between;
+}
+.single-recipies {
+	flex: 0 0 27.33%;
+	width: 100%;
+	background: #FFFFFF;
+	box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+	border-radius: 30px;
+	overflow: hidden;
+	padding: 20px;
+}
+.all-subscribe-area{
+    margin-top: 129px;
+}
+.single-recipies h3 {
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 28px;
+	margin: 0;
+	padding-top: 40px;
+	padding-bottom: 10px;
+}
+.recipies-img {
+	border-radius: 20px;
+	overflow: hidden;
+}
+.single-recipies p {
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 32px;
+	margin: 0;
+	padding-bottom: 14px;
+}
