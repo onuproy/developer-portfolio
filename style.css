@@ -82,3 +82,53 @@ body{
 	display: inline list-item;
 	list-style: none;
 }
+
+.about-secon-area {
+	background: url('images/about-banner.png') no-repeat scroll 0 0 / 100% 100%;
+	overflow: hidden;
+	padding-top: 50px;
+}
+.about-image {
+	flex: 0 0 46%;
+	max-width: 46%;
+	text-align: center;
+}
+.about-content-area {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.about-content h2 {
+	font-size: 40px;
+	color: #707070;
+	font-weight: 700;
+	font-family: 'Montserrat', sans-serif;
+}
+.about-content p {
+	max-width: 445px;
+	width: 100%;
+	color: #18191F;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 32px;
+	font-family: 'Manrope', sans-serif;
+	margin-bottom: 90px;
+}
+.about-image img {
+	width: 59%;
+}
+.button-contant a {
+	display: inline-block;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 130%;
+	background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+	box-shadow: 0px 2px 30px rgba(252, 143, 73, 0.5);
+	border-radius: 100px;
+	color: #FFF;
+	text-decoration: none;
+	padding: 21px 35px;
+}
