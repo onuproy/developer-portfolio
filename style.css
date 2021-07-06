@@ -1,6 +1,15 @@
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
-img{
-    width:100%;
+
+.main-area{
+    max-width: 1240px;
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.hero-image img{
+    width: 100%;
+    height: auto;
 }
