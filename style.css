@@ -152,12 +152,14 @@ body{
 	margin-bottom: 30px;
 }
 .section-title p {
-	font-size: 17px;
+	font-size: 18px;
 	max-width: 520px;
 	width: 100%;
 	margin: 0 auto;
-	color: #828282;
-	line-height: 26px;
+	color: #252525;
+	line-height: 29px;
+	font-weight: 400;
+	font-family: Montserrat;
 }
 img{
     max-width: 100%;
